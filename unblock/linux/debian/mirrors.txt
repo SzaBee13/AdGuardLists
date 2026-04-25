@@ -1,0 +1,481 @@
+! Title: Debian Mirrors
+! Description: Allowlist for all official Debian mirrors worldwide
+! Source: https://www.debian.org/mirror/list
+! Last updated: 2026-04-25
+! Format: AdGuard / AdGuard Home compatible
+! Version: 1.0.0
+
+! --- CDN / Primary ---
+@@||deb.debian.org^
+@@||ftp.debian.org^
+
+! --- Argentina ---
+@@||debian.unnoba.edu.ar^
+@@||mirror.sitsa.com.ar^
+
+! --- Armenia ---
+@@||ftp.am.debian.org^
+@@||mirrors.asnet.am^
+
+! --- Australia ---
+@@||ftp.au.debian.org^
+@@||debian.mirror.serversaustralia.com.au^
+@@||mirror.aarnet.edu.au^
+@@||mirror.amaze.com.au^
+@@||mirror.gsl.icu^
+@@||mirror.linux.org.au^
+@@||mirror.overthewire.com.au^
+@@||mirror.realcompute.io^
+@@||mirrors.xtom.au^
+
+! --- Austria ---
+@@||ftp.at.debian.org^
+@@||debian.anexia.at^
+@@||debian.lagis.at^
+
+! --- Azerbaijan ---
+@@||mirror.ourhost.az^
+
+! --- Bangladesh ---
+@@||mirror.limda.net^
+@@||mirror.xeonbd.com^
+
+! --- Belarus ---
+@@||mirror.datacenter.by^
+
+! --- Belgium ---
+@@||ftp.be.debian.org^
+@@||debian-mirror.behostings.net^
+@@||mirror.as35701.net^
+@@||mirror.unix-solutions.be^
+
+! --- Brazil ---
+@@||ftp.br.debian.org^
+@@||debian.c3sl.ufpr.br^
+@@||debian.pop-sc.rnp.br^
+@@||mirror.blue3.com.br^
+@@||mirrors.ic.unicamp.br^
+@@||mirror.uepg.br^
+@@||mirror.ufscar.br^
+
+! --- Bulgaria ---
+@@||ftp.bg.debian.org^
+@@||debian.a1.bg^
+@@||debian.ipacct.com^
+@@||debian.ludost.net^
+@@||debian.mnet.bg^
+@@||debian.telecoms.bg^
+@@||ftp.uni-sofia.bg^
+@@||mirrors.netix.net^
+@@||mirror.telepoint.bg^
+
+! --- Burkina Faso ---
+@@||debian.ipsys.bf^
+
+! --- Cambodia ---
+@@||mirror.sabay.com.kh^
+
+! --- Canada ---
+@@||ftp.ca.debian.org^
+@@||debian.linux.n0c.ca^
+@@||debian.mirror.rafal.ca^
+@@||mirror.cpsc.ucalgary.ca^
+@@||mirror.csclub.uwaterloo.ca^
+@@||mirror.dst.ca^
+@@||mirror.estone.ca^
+@@||mirror.it.ubc.ca^
+
+! --- Chile ---
+@@||ftp.cl.debian.org^
+@@||debian-mirror.puq.apoapsis.cl^
+@@||elmirror.cl^
+@@||mirror.hnd.cl^
+@@||mirror.insacom.cl^
+
+! --- China ---
+@@||ftp.cn.debian.org^
+@@||mirror.lzu.edu.cn^
+@@||mirrors.bfsu.edu.cn^
+@@||mirrors.jlu.edu.cn^
+@@||mirror.sjtu.edu.cn^
+@@||mirrors.qlu.edu.cn^
+@@||mirrors.tuna.tsinghua.edu.cn^
+@@||mirrors.ustc.edu.cn^
+@@||mirrors.zju.edu.cn^
+
+! --- Costa Rica ---
+@@||debianmirror.una.ac.cr^
+@@||mirrors.ucr.ac.cr^
+
+! --- Croatia ---
+@@||ftp.hr.debian.org^
+@@||debian.carnet.hr^
+@@||debian.iskon.hr^
+
+! --- Czech Republic ---
+@@||ftp.cz.debian.org^
+@@||debian.mirror.web4u.cz^
+@@||debian.nic.cz^
+@@||debian.superhosting.cz^
+@@||ftp.cvut.cz^
+@@||ftp.debian.cz^
+@@||ftp.sh.cvut.cz^
+@@||ftp.zcu.cz^
+@@||merlin.fit.vutbr.cz^
+@@||mirror.dkm.cz^
+@@||mirror.it4i.cz^
+@@||mirror-prg.webglobe.com^
+
+! --- Denmark ---
+@@||ftp.dk.debian.org^
+@@||mirrors.dotsrc.org^
+
+! --- Estonia ---
+@@||ftp.ee.debian.org^
+@@||ftp.eenet.ee^
+@@||mirrors.xtom.ee^
+
+! --- Finland ---
+@@||ftp.fi.debian.org^
+@@||debian.web.trex.fi^
+@@||mirror.5i.fi^
+@@||www.nic.funet.fi^
+
+! --- France ---
+@@||ftp.fr.debian.org^
+@@||apt.tetaneutral.net^
+@@||debian.apt-mirror.de^
+@@||debian.mirrors.ovh.net^
+@@||debian.obspm.fr^
+@@||debian.polytech-lille.fr^
+@@||debian.proxad.net^
+@@||deb-mir1.naitways.net^
+@@||ftp.ec-m.fr^
+@@||ftp.lip6.fr^
+@@||ftp.rezopole.net^
+@@||ftp.u-picardie.fr^
+@@||ftp.u-strasbg.fr^
+@@||miroir.univ-lorraine.fr^
+@@||mirror.abaclouda.net^
+@@||mirror.debian.ikoula.com^
+@@||mirror.gitoyen.net^
+@@||mirror.ibcp.fr^
+@@||mirror.plusserver.com^
+
+! --- Georgia ---
+@@||debian.grena.ge^
+
+! --- Germany ---
+@@||ftp2.de.debian.org^
+@@||ftp.de.debian.org^
+@@||debian.charite.de^
+@@||debian.inf.tu-dresden.de^
+@@||debian.mirror.iphh.net^
+@@||debian.mirror.lrz.de^
+@@||debian.netcologne.de^
+@@||debian.tu-bs.de^
+@@||debian.uni-due.de^
+@@||de.mirrors.clouvider.net^
+@@||ftp.fau.de^
+@@||ftp.gwdg.de^
+@@||ftp.halifax.rwth-aachen.de^
+@@||ftp.hosteurope.de^
+@@||ftp-stud.hs-esslingen.de^
+@@||ftp.stw-bonn.de^
+@@||ftp.tu-chemnitz.de^
+@@||ftp.uni-hannover.de^
+@@||ftp.uni-kl.de^
+@@||ftp.uni-mainz.de^
+@@||ftp.uni-stuttgart.de^
+@@||ftp.wrz.de^
+@@||mirror.23m.com^
+@@||mirror.creoline.net^
+@@||mirror.de.leaseweb.net^
+@@||mirror.eu.oneandone.net^
+@@||mirror.informatik.tu-freiberg.de^
+@@||mirror.ipb.de^
+@@||mirror.netzwerge.de^
+@@||mirror.plusline.net^
+@@||mirrors.xtom.de^
+@@||mirror.united-gameserver.de^
+@@||mirror.wtnet.de^
+@@||packages.hs-regensburg.de^
+@@||pubmirror.plutex.de^
+
+! --- Greece ---
+@@||debian.otenet.gr^
+
+! --- Hong Kong ---
+@@||ftp.hk.debian.org^
+@@||mirror.xtom.com.hk^
+
+! --- Hungary ---
+@@||ftp.bme.hu^
+@@||repo.jztkft.hu^
+
+! --- Iceland ---
+@@||ftp.is.debian.org^
+@@||is.mirror.flokinet.net^
+
+! --- India ---
+@@||mirror.nitc.ac.in^
+@@||mirrors.iitd.ac.in^
+
+! --- Indonesia ---
+@@||kartolo.sby.datautama.net.id^
+@@||kebo.pens.ac.id^
+@@||mirror.unair.ac.id^
+@@||mr.heru.id^
+
+! --- Israel ---
+@@||debian.interhost.co.il^
+
+! --- Italy ---
+@@||ftp.it.debian.org^
+@@||debian.connesi.it^
+@@||debian.dynamica.it^
+@@||debian.mirror.garr.it^
+@@||ftp.linux.it^
+@@||giano.com.dist.unige.it^
+@@||mirror.units.it^
+
+! --- Japan ---
+@@||ftp.jp.debian.org^
+@@||debian-mirror.sakura.ne.jp^
+@@||ftp.jaist.ac.jp^
+@@||ftp.riken.jp^
+@@||ftp.yz.yamagata-u.ac.jp^
+@@||mirrors.xtom.jp^
+
+! --- Kazakhstan ---
+@@||mirror.hoster.kz^
+@@||mirror.ps.kz^
+
+! --- Kenya ---
+@@||debian.mirror.ac.ke^
+@@||debian.mirror.liquidtelecom.com^
+
+! --- Korea ---
+@@||ftp.kr.debian.org^
+@@||ftp.kaist.ac.kr^
+@@||ftp.lanet.kr^
+@@||mirror.pangkin.com^
+@@||mirror.siwoo.org^
+
+! --- Latvia ---
+@@||debian.koyanet.lv^
+@@||ftp.linux.edu.lv^
+@@||mirror.cloudhosting.lv^
+@@||mirror.veesp.com^
+
+! --- Lithuania ---
+@@||ftp.lt.debian.org^
+@@||debian.balt.net^
+@@||debian.mirror.vu.lt^
+@@||mirror.litnet.lt^
+
+! --- Macedonia ---
+@@||mirror.a1.mk^
+@@||mirror-mk.interspace.com^
+
+! --- Malaysia ---
+@@||debian.tuxuri.com^
+
+! --- Mexico ---
+@@||debian.vranetworks.lat^
+@@||lidsol.fi-b.unam.mx^
+
+! --- Morocco ---
+@@||mirror.marwan.ma^
+
+! --- Netherlands ---
+@@||ftp.nl.debian.org^
+@@||debian.snt.utwente.nl^
+@@||mirror.bgp.rodeo^
+@@||mirror.duocast.net^
+@@||mirror.nforce.com^
+@@||mirror.nl.cdn-perfprod.com^
+@@||mirror.nl.leaseweb.net^
+@@||mirror.nl.mirhosting.net^
+@@||mirrors.hostiserver.com^
+@@||mirrors.xtom.nl^
+@@||mirror.tngnet.com^
+@@||mirror.vpgrp.io^
+@@||nl.mirror.flokinet.net^
+@@||nl.mirrors.clouvider.net^
+
+! --- New Caledonia ---
+@@||ftp.nc.debian.org^
+@@||debian.nautile.nc^
+@@||mirror.lagoon.nc^
+
+! --- New Zealand ---
+@@||ftp.nz.debian.org^
+@@||linux.purple-cat.net^
+@@||mirror.fsmg.org.nz^
+
+! --- Poland ---
+@@||ftp.pl.debian.org^
+@@||ftp.agh.edu.pl^
+@@||ftp.icm.edu.pl^
+@@||ftp.psnc.pl^
+@@||ftp.task.gda.pl^
+
+! --- Portugal ---
+@@||ftp.pt.debian.org^
+@@||debian.uevora.pt^
+@@||ftp.eq.uc.pt^
+@@||ftp.rnl.tecnico.ulisboa.pt^
+
+! --- Puerto Rico ---
+@@||mirrors.upr.edu^
+
+! --- Réunion ---
+@@||debian.mithril.re^
+@@||depot-debian.univ-reunion.fr^
+
+! --- Romania ---
+@@||mirror.flo.c-f.ro^
+@@||mirror.linux.ro^
+@@||mirrors.datapark.ro^
+@@||mirrors.hosterion.ro^
+@@||mirrors.hostico.ro^
+@@||mirrors.nxthost.com^
+@@||mirrors.pidginhost.com^
+@@||ro.mirror.flokinet.net^
+
+! --- Russia ---
+@@||ftp.ru.debian.org^
+@@||ftp.psn.ru^
+@@||mirror.docker.ru^
+@@||mirror.kpfu.ru^
+@@||mirror.mephi.ru^
+@@||mirror.neftm.ru^
+@@||mirrors.powernet.com.ru^
+@@||mirror.truenetwork.ru^
+@@||repository.su^
+
+! --- Saudi Arabia ---
+@@||mirror.maeen.sa^
+
+! --- Singapore ---
+@@||mirror.sg.gs^
+
+! --- Slovakia ---
+@@||ftp.sk.debian.org^
+@@||deb.bbxnet.sk^
+@@||ftp.antik.sk^
+@@||ftp.debian.sk^
+
+! --- South Africa ---
+@@||debian.envisagecloud.net.za^
+@@||debian.saix.net^
+
+! --- Spain ---
+@@||debian.grn.cat^
+@@||debian.redimadrid.es^
+@@||debian.redparra.com^
+@@||debian.uvigo.es^
+@@||ftp.caliu.cat^
+@@||ftp.cica.es^
+@@||mirror.raiolanetworks.com^
+
+! --- Sweden ---
+@@||ftp.se.debian.org^
+@@||debian.lth.se^
+@@||debian.mirror.su.se^
+@@||ftp.acc.umu.se^
+@@||ftpmirror1.infania.net^
+@@||mirror.braindrainlan.nu^
+@@||mirrors.glesys.net^
+
+! --- Switzerland ---
+@@||ftp.ch.debian.org^
+@@||debian.ethz.ch^
+@@||deb.nextgen.ch^
+@@||linuxsoft.cern.ch^
+@@||mirror1.infomaniak.com^
+@@||mirror2.infomaniak.com^
+@@||mirror.init7.net^
+@@||mirror.iway.ch^
+@@||mirror.sinavps.ch^
+@@||pkg.adfinis-on-exoscale.ch^
+
+! --- Taiwan ---
+@@||ftp.tw.debian.org^
+@@||debian.ccns.ncku.edu.tw^
+@@||debian.cs.nycu.edu.tw^
+@@||mirror.twds.com.tw^
+@@||opensource.nchc.org.tw^
+@@||tw1.mirror.blendbyte.net^
+
+! --- Thailand ---
+@@||ftp.debianclub.org^
+@@||mirror.applebred.net^
+@@||mirror.kku.ac.th^
+@@||mirrors.cloudforest.co.th^
+
+! --- Ukraine ---
+@@||debian.netforce.hosting^
+@@||debian.volia.net^
+@@||distrohub.kyiv.ua^
+@@||mirror.mirohost.net^
+@@||mirror.ukrnames.com^
+
+! --- United Kingdom ---
+@@||ftp.uk.debian.org^
+@@||debian.mirrors.uk2.net^
+@@||debian.mirror.uk.sargasso.net^
+@@||free.hands.com^
+@@||ftp.ticklers.org^
+@@||mirror.cov.ukservers.com^
+@@||mirror.lchost.net^
+@@||mirror.mythic-beasts.com^
+@@||mirror.ox.ac.uk^
+@@||mirror.positive-internet.com^
+@@||mirrors.coreix.net^
+@@||mirrorservice.org^
+@@||mirror.vinehost.net^
+@@||uk.mirrors.clouvider.net^
+
+! --- United States ---
+@@||ftp.us.debian.org^
+@@||atl.mirrors.clouvider.net^
+@@||debian-archive.trafficmanager.net^
+@@||debian.cc.lehigh.edu^
+@@||debian.csail.mit.edu^
+@@||debian.mirror.constant.com^
+@@||debian.osuosl.org^
+@@||debian.uchicago.edu^
+@@||la.mirrors.clouvider.net^
+@@||lethe.chinstrap.org^
+@@||mirror.0x626b.com^
+@@||mirror.cogentco.com^
+@@||mirror.keystealth.org^
+@@||mirror.rustytel.net^
+@@||mirrors.accretive-networks.net^
+@@||mirrors.bloomu.edu^
+@@||mirrors.egr.msu.edu^
+@@||mirror.siena.edu^
+@@||mirrors.lug.mtu.edu^
+@@||mirrors.mwcampbell.us^
+@@||mirrors.ocf.berkeley.edu^
+@@||mirror.steadfast.net^
+@@||mirrors.vcea.wsu.edu^
+@@||mirrors.wikimedia.org^
+@@||mirrors.xtom.com^
+@@||mirror.us.leaseweb.net^
+@@||mirror.us.mirhosting.net^
+@@||mirror.us.oneandone.net^
+@@||nyc.mirrors.clouvider.net^
+@@||plug-mirror.rcac.purdue.edu^
+@@||repo.ialab.dsu.edu^
+
+! --- Uruguay ---
+@@||debian.repo.cure.edu.uy^
+@@||mirror.undernet.uy^
+@@||repos.interior.edu.uy^
+
+! --- Vietnam ---
+@@||debian.xtdv.net^
+@@||mirror.bizflycloud.vn^

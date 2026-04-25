@@ -1,0 +1,13 @@
+! Title: Linux Metrics
+! Description: AdGuard blocklist of linux metrics.
+! Generated: 2026-04-25
+! Total entries: see below
+! Version: 1.0.0
+
+! Debian
+||metrics.godard.debian.org^
+
+! Ubuntu
+||metrics.staging.ubuntu.com^
+||metrics.stg.ubuntu.com^
+||metrics.ubuntu.com^

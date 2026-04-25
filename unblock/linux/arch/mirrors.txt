@@ -1,0 +1,616 @@
+! Title: Arch Linux Mirrors
+! Description: AdGuard allowlist for all official Arch Linux HTTPS mirrors
+! Source: https://archlinux.org/mirrorlist/?country=all&protocol=https&ip_version=4
+! Generated: 2026-04-25
+! Total entries: 468
+! Version: 1.0.0
+
+! Worldwide
+@@||fastly.mirror.pkgbuild.com^
+@@||geo.mirror.pkgbuild.com^
+@@||ftpmirror.infania.net^
+@@||mirror.rackspace.com^
+
+! Albania
+@@||al.arch.niranjan.co^
+
+! Armenia
+@@||mirrors.teamcloud.am^
+
+! Australia
+@@||mirror.aarnet.edu.au^
+@@||au.mirrors.cicku.me^
+@@||archlinux.mirror.digitalpacific.com.au^
+@@||gsl-syd.mm.fcix.net^
+@@||au.arch.niranjan.co^
+@@||syd.mirror.rackspace.com^
+
+! Austria
+@@||mirror.alwyzon.net^
+@@||at.mirrors.cicku.me^
+@@||at.arch.mirror.kescher.at^
+@@||at.arch.niranjan.co^
+@@||at-vie.soulharsh007.dev^
+
+! Azerbaijan
+@@||mirror.ourhost.az^
+@@||mirror.yer.az^
+
+! Bangladesh
+@@||mirror.limda.net^
+@@||mirror.xeonbd.com^
+
+! Belgium
+@@||mirror.1ago.be^
+@@||mirror.jonas-prz.be^
+@@||archlinux.mirror-services.net^
+@@||mirror.tiguinet.net^
+
+! Brazil
+@@||archlinux.c3sl.ufpr.br^
+@@||br.mirrors.cicku.me^
+@@||mirror.ufscar.br^
+@@||mirrors.ic.unicamp.br^
+
+! Bulgaria
+@@||mirror.telepoint.bg^
+@@||mirrors.uni-plovdiv.net^
+
+! Cambodia
+@@||mirror.sabay.com.kh^
+
+! Canada
+@@||mirror.0xem.ma^
+@@||mirror.acadielinux.ca^
+@@||mirror.allthingslinux.org^
+@@||arch.mirror.winslow.cloud^
+@@||ca.mirrors.cicku.me^
+@@||mirror.cpsc.ucalgary.ca^
+@@||mirror.csclub.uwaterloo.ca^
+@@||mirror2.evolution-host.com^
+@@||stygian.failzero.net^
+@@||mirror.franscorack.com^
+@@||ca.mirror.cx^
+@@||mirror.quantum5.ca^
+@@||muug.ca^
+@@||mirrors.pablonara.com^
+@@||upstream-1.pablonara.com^
+@@||mirror.scd31.com^
+@@||mirror.xenyth.net^
+
+! Chile
+@@||mirror.anquan.cl^
+@@||elmirror.cl^
+@@||mirror.hnd.cl^
+@@||mirror.ufro.cl^
+
+! China
+@@||mirrors.aliyun.com^
+@@||mirrors.bfsu.edu.cn^
+@@||mirrors.cqu.edu.cn^
+@@||mirrors.hit.edu.cn^
+@@||mirrors.hust.edu.cn^
+@@||mirrors.jcut.edu.cn^
+@@||mirrors.jlu.edu.cn^
+@@||mirrors.jxust.edu.cn^
+@@||mirrors.nju.edu.cn^
+@@||mirror.nyist.edu.cn^
+@@||mirrors.qlu.edu.cn^
+@@||mirrors.shanghaitech.edu.cn^
+@@||mirrors.sjtug.sjtu.edu.cn^
+@@||mirrors.tuna.tsinghua.edu.cn^
+@@||mirrors.ustc.edu.cn^
+@@||mirrors.wsyu.edu.cn^
+@@||mirrors.xjtu.edu.cn^
+
+! Colombia
+@@||mirrors.atlas.net.co^
+@@||edgeuno-bog2.mm.fcix.net^
+
+! Czechia
+@@||mirror.dkm.cz^
+@@||gluttony.sin.cvut.cz^
+@@||mirror.it4i.cz^
+@@||archlinux.nic.cz^
+@@||ftp.sh.cvut.cz^
+
+! Denmark
+@@||mirrors.dotsrc.org^
+@@||mirror.group.one^
+@@||mirror.it-privat.dk^
+
+! Ecuador
+@@||mirror.linux.ec^
+
+! Estonia
+@@||mirror.cspacehostings.com^
+@@||repo.br.ee^
+@@||mirrors.xtom.ee^
+
+! Finland
+@@||archlinux.doridian.net^
+@@||cdnmirror.com^
+@@||mirror.5i.fi^
+@@||fi.arch.niranjan.co^
+@@||mirror.srv.fail^
+@@||mirror.wuki.li^
+@@||arch.yhtez.xyz^
+
+! France
+@@||elda.asgardius.company^
+@@||mirror.bakertelekom.fr^
+@@||fr.mirrors.cicku.me^
+@@||mirror.cosmiclinux.com^
+@@||mirror.cyberbits.eu^
+@@||mirrors.eric.ovh^
+@@||mirrors.gandi.net^
+@@||archmirror.hogwarts.fr^
+@@||mirror.its-tps.fr^
+@@||mirrors.jtremesay.org^
+@@||archlinux.mailtunnel.eu^
+@@||f.matthieul.dev^
+@@||mirror.oldsql.cc^
+@@||archlinux.mirrors.ovh.net^
+@@||mirror.peeres-telecom.fr^
+@@||mirror.rznet.fr^
+@@||fr.mirror.shibe.party^
+@@||mirror.smayzy.ovh^
+@@||arch.syxpi.fr^
+@@||mirror.thekinrar.fr^
+@@||mirror.theo546.fr^
+@@||mirror.trap.moe^
+@@||ftp.u-strasbg.fr^
+@@||mirror.wormhole.eu^
+@@||arch.yourlabs.org^
+
+! Georgia
+@@||archlinux.grena.ge^
+
+! Germany
+@@||mirror.23m.com^
+@@||ftp.agdsn.de^
+@@||mirrors.aminvakil.com^
+@@||mirror.bethselamin.de^
+@@||de.repo.c48.uk^
+@@||de.mirrors.cicku.me^
+@@||mirror.clientvps.com^
+@@||mirror.cmt.de^
+@@||os.codefionn.eu^
+@@||mirror-de-1.cutie.dating^
+@@||mirror.diyarciftci.xyz^
+@@||mirror.dogado.de^
+@@||ftp.fau.de^
+@@||pkg.fef.moe^
+@@||dist-mirror.fem.tu-ilmenau.de^
+@@||berlin.mirror.pkgbuild.com^
+@@||frankfurt.mirror.pkgbuild.com^
+@@||files.hadiko.de^
+@@||mirror.hugo-betrugo.de^
+@@||mirror.informatik.tu-freiberg.de^
+@@||mirror.as20647.net^
+@@||mirror.ipb.de^
+@@||mirrors.janbruckner.de^
+@@||arch.jensgutermuth.de^
+@@||de.arch.mirror.kescher.at^
+@@||mirror.kumi.systems^
+@@||mirror.fra10.de.leaseweb.net^
+@@||mirror.metalgamer.eu^
+@@||mirror.lcarilla.de^
+@@||mirror.moson.org^
+@@||mirrors.n-ix.net^
+@@||mirror.netcologne.de^
+@@||de.arch.niranjan.co^
+@@||mirrors.niyawe.de^
+@@||packages.oth-regensburg.de^
+@@||arch.owochle.app^
+@@||mirror.pagenotfound.de^
+@@||arch.phinau.de^
+@@||mirror.pseudoform.org^
+@@||mirrors.purring.online^
+@@||archlinux.richard-neumann.de^
+@@||archlinux.roshak.xyz^
+@@||ftp.halifax.rwth-aachen.de^
+@@||mirror.selfnet.de^
+@@||de.mirror.shibe.party^
+@@||de-nue.soulharsh007.dev^
+@@||ftp.spline.inf.fu-berlin.de^
+@@||mirror.sunred.org^
+@@||archlinux.thaller.ws^
+@@||arch.mirror.cloud.thatcyberlynx.de^
+@@||mirror.thereisno.page^
+@@||ftp.tu-chemnitz.de^
+@@||mirror.ubrco.de^
+@@||arch.unixpeople.org^
+@@||mirror.wtnet.de^
+@@||mirrors.xtom.de^
+
+! Greece
+@@||repo.greeklug.gr^
+
+! Hong Kong
+@@||hk.mirrors.cicku.me^
+@@||mirror-hk.koddos.net^
+@@||hkg.mirror.rackspace.com^
+@@||arch-mirror.wtako.net^
+@@||mirror.xtom.com.hk^
+
+! Hungary
+@@||ftp.ek-cer.hu^
+@@||hu.mirror.frigyes.dev^
+
+! Iceland
+@@||is.mirror.flokinet.net^
+
+! India
+@@||mirror.4v1.in^
+@@||mirrors.abhy.me^
+@@||mirror.del2.albony.in^
+@@||mirror.maa.albony.in^
+@@||mirror.bom.kat.cx^
+@@||in.mirrors.cicku.me^
+@@||mirror.dawn.org.in^
+@@||in-mirror.garudalinux.org^
+@@||archlinux.kushwanthreddy.com^
+@@||in.arch.niranjan.co^
+@@||mirrors.nxtgen.com^
+@@||mirror.sahil.world^
+@@||mirrors.saswata.cc^
+
+! Indonesia
+@@||mirror.citrahost.com^
+@@||mirror.gi.co.id^
+@@||mirror.ditatompel.com^
+@@||mirror.papua.go.id^
+@@||mirror.repository.id^
+@@||kacabenggala.uny.ac.id^
+
+! Iran
+@@||mirror.arvancloud.ir^
+@@||mirror.mobinhost.com^
+
+! Israel
+@@||archlinux.interhost.co.il^
+@@||mirror.isoc.org.il^
+
+! Italy
+@@||it.mirrors.cicku.me^
+@@||arch.mirror.hyperbit.it^
+@@||mala-arch-server.eu^
+@@||archlinux.mirror.server24.net^
+
+! Japan
+@@||mirror.aria-on-the-planet.es^
+@@||mirrors.cat.net^
+@@||jp.mirrors.cicku.me^
+@@||ftp.jaist.ac.jp^
+@@||www.miraa.jp^
+@@||mirror.rain.ne.jp^
+@@||ftp.yz.yamagata-u.ac.jp^
+
+! Kazakhstan
+@@||mirror.ps.kz^
+
+! Kenya
+@@||archlinux.mirror.liquidtelecom.com^
+
+! Latvia
+@@||ftp.linux.edu.lv^
+@@||archlinux.koyanet.lv^
+
+! Lithuania
+@@||mirrors.atviras.lt^
+@@||mirror.sinirlan.net^
+
+! Malaysia
+@@||mirror.mrleong.net^
+
+! Mauritius
+@@||archlinux-mirror.cloud.mu^
+
+! Mexico
+@@||lidsol.fi-b.unam.mx^
+@@||arch.jsc.mx^
+
+! Moldova
+@@||md.mirrors.hacktegic.com^
+@@||mirror.hosthink.net^
+@@||mirror.ihost.md^
+@@||mirror.mangohost.net^
+@@||md.arch.niranjan.co^
+
+! Morocco
+@@||mirror.abderraziq.com^
+
+! Nepal
+@@||mirrors.nepalicloud.com^
+
+! Netherlands
+@@||ams.nl.mirrors.bjg.at^
+@@||mirror.bouwhuis.network^
+@@||mirror.nl.cdn-perfprod.com^
+@@||nl.mirrors.cicku.me^
+@@||mirror.cj2.nl^
+@@||nl.mirror.flokinet.net^
+@@||mirror.iusearchbtw.nl^
+@@||mirror.koddos.net^
+@@||arch.mirrors.lavatech.top^
+@@||mirror.ams1.nl.leaseweb.net^
+@@||archlinux.mirror.liteserver.nl^
+@@||mirror.lyrahosting.com^
+@@||mirror.mijn.host^
+@@||nl.mirror.cx^
+@@||nl.arch.niranjan.co^
+@@||mirror.nyaa.vc^
+@@||mirror.serverion.com^
+@@||archlinux.mirror.wearetriple.com^
+@@||mirrors.xtom.nl^
+
+! New Caledonia
+@@||archlinux.nautile.nc^
+
+! New Zealand
+@@||mirror.2degrees.nz^
+@@||mirror.fsmg.org.nz^
+@@||nz.arch.niranjan.co^
+@@||archlinux.ourhome.kiwi^
+
+! North Macedonia
+@@||mirror.t-home.mk^
+
+! Norway
+@@||mirror.archlinux.no^
+@@||archlinux.lysakermoen.com^
+@@||no.mirror.cx^
+@@||mirror.neuf.no^
+
+! Poland
+@@||mirror.alldaydev.com^
+@@||ftp.icm.edu.pl^
+@@||mirror.juniorjpdj.pl^
+@@||arch.midov.pl^
+@@||mirror.przekichane.pl^
+@@||ftp.psnc.pl^
+@@||arch.sakamoto.pl^
+
+! Portugal
+@@||mirror.barata.pt^
+@@||glua.ua.pt^
+@@||mirror.leitecastro.com^
+@@||mirrors.up.pt^
+@@||ftp.rnl.tecnico.ulisboa.pt^
+
+! Romania
+@@||mirrors.chroot.ro^
+@@||mirror.efect.ro^
+@@||ro.mirror.flokinet.net^
+@@||mirrors.hosterion.ro^
+@@||mirrors.hostico.ro^
+@@||ro.arch.niranjan.co^
+@@||mirrors.nxthost.com^
+@@||mirrors.pidginhost.com^
+
+! Russia
+@@||archlinux.gay^
+@@||mirror.cachy-arch.ru^
+@@||ru.mirrors.cicku.me^
+@@||mirror.kamtv.ru^
+@@||mirror.kpfu.ru^
+@@||mirror.murmellow.lol^
+@@||mirror.nw-sys.ru^
+@@||repository.su^
+@@||web.sketserv.ru^
+@@||mirror.truenetwork.ru^
+@@||vlst.su^
+@@||mirror.yandex.ru^
+
+! Saudi Arabia
+@@||sa.mirrors.cicku.me^
+@@||mirror.maeen.sa^
+
+! Serbia
+@@||mirror1.sox.rs^
+
+! Singapore
+@@||mirror.aktkn.sg^
+@@||mirror.sg.cdn-perfprod.com^
+@@||sg.mirrors.cicku.me^
+@@||download.nus.edu.sg^
+@@||mirror.freedif.org^
+@@||singapore.mirror.pkgbuild.com^
+@@||mirror.guillaumea.fr^
+@@||mirror.jingk.ai^
+@@||sg.arch.niranjan.co^
+@@||mirror.sg.gs^
+
+! Slovakia
+@@||ftp.energotel.sk^
+@@||mirror.lnx.sk^
+
+! Slovenia
+@@||mirror.archlinux.si^
+@@||www.sooftware.com^
+@@||mirror.tux.si^
+
+! South Africa
+@@||archlinux.za.mirror.allworldit.com^
+@@||za.mirrors.cicku.me^
+@@||johannesburg.mirror.pkgbuild.com^
+@@||archlinux.mirror.net.za^
+@@||mirrors.urbanwave.co.za^
+
+! South Korea
+@@||kr.mirrors.cicku.me^
+@@||mirror.distly.kr^
+@@||mirror.funami.tech^
+@@||mirror.hemino.net^
+@@||ftp.hrts.kr^
+@@||ftp.io.kr^
+@@||mirror.keiminem.com^
+@@||mirror2.keiminem.com^
+@@||mirror.krfoss.org^
+@@||ftp.lanet.kr^
+@@||mirror.siwoo.org^
+@@||mirror.techlabs.co.kr^
+@@||mirror.wane.kr^
+@@||mirror.yuki.net.uk^
+
+! Spain
+@@||mirror.es.cdn-perfprod.com^
+@@||es.mirrors.cicku.me^
+@@||mirror.raiolanetworks.com^
+@@||ftp.rediris.es^
+
+! Sweden
+@@||mirror.accum.se^
+@@||mirror.braindrainlan.nu^
+@@||umea.mirror.pkgbuild.com^
+@@||ftp.ludd.ltu.se^
+@@||ftp.lysator.liu.se^
+@@||mirror.bahnhof.net^
+@@||ftp.myrveln.se^
+@@||mirror.osbeck.com^
+@@||mirror.retropc.se^
+@@||mirror.tedwall.se^
+@@||mirror.zyner.org^
+
+! Switzerland
+@@||pkg.adfinis-on-exoscale.ch^
+@@||mirror.arch-linux.ch^
+@@||archlinux.lan.brgn.ch^
+@@||ch.mirrors.cicku.me^
+@@||mirror.hb9hil.org^
+@@||mirror.init7.net^
+@@||mirror.metanet.ch^
+@@||mirror.puzzle.ch^
+@@||ch.mirror.shiro.lol^
+@@||theswissbay.ch^
+@@||mirror.ungleich.ch^
+@@||mirror.worldhotspot.org^
+
+! Taiwan
+@@||mirror.archlinux.tw^
+@@||archlinux.ccns.ncku.edu.tw^
+@@||tw.mirrors.cicku.me^
+@@||taipei.mirror.pkgbuild.com^
+@@||archlinux.cs.nycu.edu.tw^
+@@||mirror.twds.com.tw^
+
+! Thailand
+@@||mirror.cyberbits.asia^
+@@||mirror.kku.ac.th^
+
+! Türkiye
+@@||tr.arch.niranjan.co^
+@@||mirror.nucc.tr^
+@@||mirror.timtal.com.tr^
+
+! Ukraine
+@@||distrohub.kyiv.ua^
+@@||repo.hyron.dev^
+@@||mirror.hostiko.network^
+@@||archlinux.ip-connect.vn.ua^
+@@||mirror.mirohost.net^
+@@||mirrors.reitarovskyi.com.ua^
+@@||mirror.trapmaid.org^
+
+! United Arab Emirates
+@@||mirror.hafeezh.com^
+
+! United Kingdom
+@@||archlinux.uk.mirror.allworldit.com^
+@@||repo.c48.uk^
+@@||uk.repo.c48.uk^
+@@||gb.mirrors.cicku.me^
+@@||london.mirror.pkgbuild.com^
+@@||mirror.marcusn.net^
+@@||mirrors.melbourne.co.uk^
+@@||www.mirrorservice.org^
+@@||mirror.netweaver.uk^
+@@||uk.arch.niranjan.co^
+@@||lon.mirror.rackspace.com^
+@@||mirror.server.net^
+@@||repo.slithery.uk^
+@@||mirror.st2projects.com^
+@@||mirrors.ukfast.co.uk^
+@@||mirror.cov.ukservers.com^
+
+! United States
+@@||mirror.adectra.com^
+@@||mirror.akane.network^
+@@||mirror.arizona.edu^
+@@||arlm.tyzoid.com^
+@@||mirrors.bloomu.edu^
+@@||arch-mirror.brightlight.today^
+@@||mirror.us.cdn-perfprod.com^
+@@||us.mirrors.cicku.me^
+@@||mirror.clarkson.edu^
+@@||mirror.colonelhosting.com^
+@@||arch.mirror.constant.com^
+@@||mirror.cs.odu.edu^
+@@||repo.customcomputercare.com^
+@@||mirror.ette.biz^
+@@||codingflyboy.mm.fcix.net^
+@@||coresite.mm.fcix.net^
+@@||forksystems.mm.fcix.net^
+@@||irltoolkit.mm.fcix.net^
+@@||mirror.fcix.net^
+@@||mnvoip.mm.fcix.net^
+@@||nnenix.mm.fcix.net^
+@@||nocix.mm.fcix.net^
+@@||ohioix.mm.fcix.net^
+@@||opencolo.mm.fcix.net^
+@@||southfront.mm.fcix.net^
+@@||volico.mm.fcix.net^
+@@||ziply.mm.fcix.net^
+@@||losangeles.mirror.pkgbuild.com^
+@@||mirror.givebytes.net^
+@@||mirror2.givebytes.net^
+@@||arch.goober.cloud^
+@@||mirror.hasphetica.win^
+@@||arch.hu.fo^
+@@||arch.hugeblank.dev^
+@@||repo.ialab.dsu.edu^
+@@||mirrors.iu13.net^
+@@||arch.mirror.k0.ae^
+@@||mirrors.kernel.org^
+@@||mirrors.lahansons.com^
+@@||mirror.sfo12.us.leaseweb.net^
+@@||mirror.wdc1.us.leaseweb.net^
+@@||mirrors.logal.dev^
+@@||mirrors.lug.mtu.edu^
+@@||m.lqy.me^
+@@||arch.mirror.marcusspencer.us^
+@@||arch.miningtcup.me^
+@@||mirrors.shr.cx^
+@@||iad.mirrors.misaka.one^
+@@||mirrors.mit.edu^
+@@||mirror.mra.sh^
+@@||us.arch.niranjan.co^
+@@||mirrors.ocf.berkeley.edu^
+@@||archmirror1.octyl.net^
+@@||ftp.osuosl.org^
+@@||mirror.pilotfiber.com^
+@@||dfw.mirror.rackspace.com^
+@@||iad.mirror.rackspace.com^
+@@||ord.mirror.rackspace.com^
+@@||plug-mirror.rcac.purdue.edu^
+@@||mirrors.rit.edu^
+@@||mirrors.smeal.xyz^
+@@||mirrors.sonic.net^
+@@||us-mnz.soulharsh007.dev^
+@@||mirror.pit.teraswitch.com^
+@@||mirror.theash.xyz^
+@@||mirror.umd.edu^
+@@||mirrors.vectair.net^
+@@||mirrors.xtom.com^
+@@||yonderly.org^
+@@||mirror.zackmyers.io^
+@@||zxcvfdsa.com^
+
+! Uzbekistan
+@@||mirror.dc.uz^
+
+! Vietnam
+@@||mirrors.huongnguyen.dev^
+@@||mirror.meowsmp.net^
+@@||mirrors.nguyenhoang.cloud^
