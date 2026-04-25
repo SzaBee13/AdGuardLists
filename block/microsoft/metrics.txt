@@ -1,0 +1,63 @@
+! Title: Microsoft Metrics
+! Description: AdGuard blocklist of Microsoft metrics.
+! Generated: 2026-04-25
+! Total entries: 46
+! Version: 1.0.0
+! Tags: metrics, microsoft, windows
+
+! Windows Telemetry
+||vortex-win.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||telecommand.telemetry.microsoft.com^
+||telemetry.microsoft.com^
+||telemetry.remoteapp.windowsazure.com^
+||statsfe2.ws.microsoft.com^
+||sqm.telemetry.microsoft.com^
+||sqm.df.telemetry.microsoft.com^
+||watson.telemetry.microsoft.com^
+||watson.ppe.telemetry.microsoft.com^
+||wes.df.telemetry.microsoft.com^
+||mscrl.microsoft.com^
+||oca.telemetry.microsoft.com^
+||oca.telemetry.microsoft.com.nsatc.net^
+||ceuswatcab01.blob.core.windows.net^
+||ceuswatcab02.blob.core.windows.net^
+||eauswatcab01.blob.core.windows.net^
+||eauswatcab02.blob.core.windows.net^
+||weuswatcab01.blob.core.windows.net^
+||weuswatcab02.blob.core.windows.net^
+
+! Microsoft Advertising and Activity Tracking
+||ads1.msn.com^
+||rad.msn.com^
+||a.ads1.msn.com^
+||static.2mdn.net^
+||flex.msn.com^
+||activity.windows.com^
+||bingads.microsoft.com^
+||ads.microsoft.com^
+||msads.net^
+||adsmstc.amazon-adsystem.com^
+
+! Diagnostic & Feedback
+||*diagnostics.support.microsoft.com^
+||*corp.sts.microsoft.com^
+||*diagnostics.microsoft.com^
+||*feedback.microsoft-hohm.com^
+||*feedback.search.microsoft.com^
+||*feedback.windows.com^
+
+! Office Telemetry
+||officeclient.microsoft.com^
+||config.officeapps.live.com^
+||nexus.officeapps.live.com^
+||telemetry.office.microsoft.com^
+
+! Skype Telemetry
+||pipe.skype.com^
+
+! Other Microsoft Tracking
+||survey.watson.microsoft.com^
+||view.atdmt.com^
+||click.atdmt.com^
+||windows-ppe.microsoft.com^

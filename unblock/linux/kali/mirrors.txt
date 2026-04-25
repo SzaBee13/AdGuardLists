@@ -4,7 +4,7 @@
 ! Updated: 2026-04-25
 ! Total entries: 75
 ! Version: 1.0.0
-! Tags: linux, mirrors, kali
+! Tags: linux, mirrors, kali, kalilinux
 
 @@||kali.download^
 @@||mirrors.esto.network^

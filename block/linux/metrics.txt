@@ -3,6 +3,7 @@
 ! Generated: 2026-04-25
 ! Total entries: 4
 ! Version: 1.0.0
+! Tags: metrics, linux
 
 ! Debian
 ||metrics.godard.debian.org^

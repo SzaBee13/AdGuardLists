@@ -1,0 +1,19 @@
+! Title: Microsoft Edge & Bing
+! Description: AdGuard blocklist for all the Microsoft Edge & Bing slop.
+! Generated: 2026-04-25
+! Total entries: 12
+! Version: 1.0.0
+! Tags: microsoft, windows, edge, browser, bing
+
+||*msedge.net^
+||*cdn.bing.com^
+||*cdn.content.bing.com^
+||*edge.microsoft.com^
+||*microsoftedgewelcome.microsoft.com^
+||*browser.events.data.microsoft.com^
+||*msn.com^
+||*msedge.api.cdp.microsoft.com^
+||*dl.delivery.mp.microsoft.com^
+||nav.smartscreen.microsoft.com^
+||smartscreen-prod.microsoft.com^
+||config.edge.skype.com^
