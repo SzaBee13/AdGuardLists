@@ -2,7 +2,9 @@
 ! Description: Unblocks all official Kali Linux mirror domains
 ! Source: https://http.kali.org/README?mirrorlist
 ! Updated: 2026-04-25
+! Total entries: 75
 ! Version: 1.0.0
+! Tags: linux, mirrors, kali
 
 @@||kali.download^
 @@||mirrors.esto.network^

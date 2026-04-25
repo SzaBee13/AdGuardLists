@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AdGuard Lists Logo</title>
+  <desc id="desc">A teal shield and DNS nodes representing curated AdGuard block and unblock lists.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="20%" cy="10%" r="55%">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="88%" cy="12%" r="48%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shieldFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="lineFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glowLeft)"/>
+  <rect width="1200" height="630" fill="url(#glowRight)"/>
+
+  <g transform="translate(170 105)">
+    <path
+      d="M180 0 L360 54 V204 C360 330 276 425 180 458 C84 425 0 330 0 204 V54 Z"
+      fill="url(#shieldFill)"
+      opacity="0.98"
+    />
+    <path
+      d="M180 44 L318 86 V204 C318 304 251 381 180 412 C109 381 42 304 42 204 V86 Z"
+      fill="#0b1324"
+      opacity="0.92"
+    />
+    <g stroke="url(#lineFill)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M97 235 L173 171 L245 217 L306 152"/>
+      <circle cx="97" cy="235" r="13" fill="#5eead4"/>
+      <circle cx="173" cy="171" r="13" fill="#67e8f9"/>
+      <circle cx="245" cy="217" r="13" fill="#5eead4"/>
+      <circle cx="306" cy="152" r="13" fill="#67e8f9"/>
+    </g>
+    <path d="M109 287 H251" stroke="url(#lineFill)" stroke-width="11" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#e2e8f0" font-family="'Space Grotesk', 'Segoe UI', sans-serif">
+    <text x="620" y="272" font-size="94" font-weight="700" letter-spacing="1.5">AdGuard</text>
+    <text x="620" y="355" font-size="74" font-weight="500" fill="#7dd3fc" letter-spacing="10">LISTS</text>
+    <text x="622" y="418" font-size="32" font-weight="500" fill="#94a3b8">Block and Unblock DNS Sources</text>
+  </g>
+</svg>

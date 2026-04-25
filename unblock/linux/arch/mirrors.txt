@@ -4,6 +4,7 @@
 ! Generated: 2026-04-25
 ! Total entries: 468
 ! Version: 1.0.0
+! Tags: linux, mirrors, archlinux, arch
 
 ! Worldwide
 @@||fastly.mirror.pkgbuild.com^

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AdGuard Lists</title>
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            display: ['"Space Grotesk"', 'sans-serif'],
+            mono: ['"IBM Plex Mono"', 'monospace'],
+          },
+        },
+      },
+    };
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <!-- Scripts -->
+  <script src="scripts/index.js" defer type="module"></script>
+  <!-- Open Graph -->
+  <meta property="og:title" content="AdGuard Lists">
+  <meta property="og:description" content="A collection of AdGuard lists for various purposes, including ad blocking, privacy protection, and more.">
+  <meta property="og:image" content="https://adguardlists.szabee.me/assets/logo.png">
+  <meta property="og:url" content="https://adguardlists.szabee.me/web/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AdGuard Lists">
+  <meta name="twitter:description" content="A collection of AdGuard lists for various purposes, including ad blocking, privacy protection, and more.">
+  <meta name="twitter:image" content="https://adguardlists.szabee.me/assets/logo.png">
+</head>
+<body data-page="home" class="min-h-screen bg-slate-950 text-slate-100 antialiased">
+  <div class="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_20%_10%,rgba(20,184,166,0.24),transparent_38%),radial-gradient(circle_at_80%_0%,rgba(14,116,144,0.3),transparent_45%)]"></div>
+  <main class="mx-auto flex min-h-screen max-w-6xl flex-col px-6 py-12 sm:px-10 lg:py-16">
+    <header class="flex flex-col gap-6">
+      <p class="font-mono text-xs uppercase tracking-[0.2em] text-teal-300">AdGuardLists Repository</p>
+      <h1 class="max-w-3xl font-display text-4xl font-bold leading-tight text-white sm:text-5xl">Fast, maintainable block and unblock lists for AdGuard.</h1>
+      <p class="max-w-2xl text-base text-slate-300 sm:text-lg">Browse curated DNS list files, grab raw URLs instantly, and keep your AdGuard setup synced with clean source-controlled updates.</p>
+      <div class="flex flex-wrap gap-3">
+        <a href="lists.html" class="rounded-md bg-teal-300 px-5 py-3 text-sm font-semibold text-slate-950 transition hover:bg-teal-200">Open Lists</a>
+        <a href="https://github.com/SzaBee13/AdGuardLists" target="_blank" rel="noreferrer" class="rounded-md border border-slate-600 px-5 py-3 text-sm font-semibold text-slate-200 transition hover:border-slate-300 hover:text-white">GitHub Repository</a>
+      </div>
+    </header>
+
+    <section class="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <article class="rounded-xl border border-slate-800 bg-slate-900/70 p-5">
+        <h2 class="font-display text-lg font-semibold text-white">Focused Categories</h2>
+        <p class="mt-2 text-sm text-slate-300">Separate block and unblock lists keep policy intent clear while making troubleshooting easier.</p>
+      </article>
+      <article class="rounded-xl border border-slate-800 bg-slate-900/70 p-5">
+        <h2 class="font-display text-lg font-semibold text-white">Raw Link Access</h2>
+        <p class="mt-2 text-sm text-slate-300">Each list can be consumed directly from GitHub raw URLs for quick AdGuard Home integration.</p>
+      </article>
+      <article class="rounded-xl border border-slate-800 bg-slate-900/70 p-5 sm:col-span-2 lg:col-span-1">
+        <h2 class="font-display text-lg font-semibold text-white">Repository Driven</h2>
+        <p class="mt-2 text-sm text-slate-300">The web frontend reflects versioned list files, so updates stay transparent and reviewable.</p>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

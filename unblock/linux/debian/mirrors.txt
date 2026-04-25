@@ -2,8 +2,9 @@
 ! Description: Allowlist for all official Debian mirrors worldwide
 ! Source: https://www.debian.org/mirror/list
 ! Last updated: 2026-04-25
-! Format: AdGuard / AdGuard Home compatible
+! Total entries: 343
 ! Version: 1.0.0
+! Tags: linux, mirrors, debian
 
 ! --- CDN / Primary ---
 @@||deb.debian.org^
