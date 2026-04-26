@@ -1,0 +1,14 @@
+! Title: Google Ads & Metrics - Hungary
+! Description: Block Google ads, adsence, metrics, doubleclick, youtube and more.
+! Generated: 2026-04-26
+! Total entries: 6
+! Version: 1.0.0
+! Tags: google, ads, adsence, youtube, metrics, hu
+
+! subfinder -d google.hu | grep -E 'ad|feedback|metric|track|marketing' | grep -Ev 'addon|download|upload|advis(o|e)r'
+||adsense.google.hu^
+||myadcenter.google.hu^
+||adwords.google.hu^
+||adssettings.google.hu^
+||adservice.google.hu^
+||marketingplatform.google.hu^
